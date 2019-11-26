@@ -1,0 +1,5 @@
+CurrentFileName 	        ,  CampareWith(CuurentFileName <==> PreviousFileName)       , Date(dd-MM-yyyy) & Time(HH:mm:ss)
+ 
+MobProxy010520181328	, (MobProxy010520181328 <==> MobProxy160420181104)	, 01-05-2018 15:53:54 
+MobProxy040520181801	, (MobProxy040520181801 <==> MobProxy010520181328)	, 04-05-2018 18:02:21 
+MobProxy140620181314	, (MobProxy140620181314 <==> MobProxy040520181801)	, 14-06-2018 14:32:54 
